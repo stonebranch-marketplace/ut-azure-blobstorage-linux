@@ -113,7 +113,8 @@ If your Version is Python 3.6 or later all is fine. If a no python or a lower Ve
 install the Universal Agent with the Python binding option (--python yes). This option will install python 3.6. along with your 
 universal agent. 
 
-    e.g. 
+e.g. 
+    
     sudo sh ./unvinst --network_provider oms --oms_servers 7878@192.168.88.12 --oms_port 7878 --oms_autostart no --ac_netname     OPSAUTOCONF --opscli yes --python yes 
 
 **NOTE: the above install string does not work in case you did a user mode install**
