@@ -141,11 +141,11 @@ Image 3:
 
 # 5. Universal Task Configuration 
 
-** 1. Activate: Resolvable Credentials in Universal Automation Center:**
+**1. Activate: Resolvable Credentials in Universal Automation Center:**
 
 Image 4:
 
-** 2. Fill Out the Universal Task for each Azure Blob Storage command, which you want to execute:**
+**2. Fill Out the Universal Task for each Azure Blob Storage command, which you want to execute:**
 
 In the example below the Azure Create Container Task was selected 
 
