@@ -55,7 +55,7 @@ The following Universal Task for Azure Blob Storage have been implemented:
 
 Image 1:
 
-# 4 Installation 
+# 4. Installation 
 
 # 4.1 Software Requirements 
 
