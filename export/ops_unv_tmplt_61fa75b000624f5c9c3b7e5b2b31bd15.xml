@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-29 10:09:46" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.7.0.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><agent/><icon_date_created>2017-11-15 12:09:22</icon_date_created><sys_updated_on>2019-09-13 12:29:16</sys_updated_on><output_return_text/><sys_updated_by>asaglam</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><wait_for_output>false</wait_for_output><sys_created_by>ops.admin</sys_created_by><output_return_nline>100</output_return_nline><exit_code_text/><exit_code_fr>0</exit_code_fr><runtime_dir/><output_return_type>1</output_return_type><script/><broadcast_cluster_var_check>false</broadcast_cluster_var_check><agent_type>2</agent_type><script_type_windows/><automatic_output_fr>0</automatic_output_fr><agent_cluster/><name>AZ SDK Download File from container</name><exit_codes>0</exit_codes><broadcast_cluster/><use_common_script>false</use_common_script><credentials/><icon_filesize>1891</icon_filesize><icon>iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABlhJREFUWMO9WV1sXEcV/s7M3Lt7vetd2038k8Y4idsqFDUpTUMgVID4KQovCFoeqvYhEioI8QJIlaASICFQ8kCLkFBEKvEMjSASKYqqVlGEaOkfTdM0rUP8k9rYNWt7vev9v/fOzOHBcWona+/d65pP+3KvRjPfnPnOd86dJWbGplEzPFqzsz5Lwm5PDHnCoZhTqU1S0YxzeX1yJnytZJY0BKHPoS/3yO/udPZ3yhisaDMRqhp+ajL4zVRY1IwbizMA7PLE8WH3W32OaJNUfEIh41cT/rHJIGg6AWO7Qyf2Jh/ua+8QROzwnM6FT0+twwYAYT7kJ8f9S2X7/yD0n4Y9NhmUzYaDCKM1++vJwG+HUkxCp3L6UsWipT4IZxb0y0UTZc74hPIhn8rpiNpb0vxsLrSRhRqH0IWSuVw1rcOzgvMFM+1bAIFF2Or44vjQS0VTM4hKiDDl2/OLZknrF/ImIfCNXvVQr/LWManWhDTjnbL5Z9GUDe5Ji09l5cU2Eyew+PGYv6g5sABwNq9Hqu7P9iQSzY6nhQ9VND89FZyYDnMBA0hKHM7Iq3U77W+q4HQIPLM3+eiA0x6hwOLn4/5TU0G4+i23OqyWAwAwPpOVZ/Z729ybh24k6jPz+nfTa9lgncUYYCQIQwn6Yrfsb1laCRfKpqkdrKuhfMi/nQoqG4uXkRTod2mPJz7bJQ9m5CdSIqPom5fq/y22SEPf4nzBfL33ZgLrEjqX16+XN5q0z6Xv7HAOZ+WdHQKMPanrZbRqosrrctXUDd+Ubs0JGcZzCyaw64eHsScpnhhyOxUZxgeN9vJuGbM+lw08ueZlcw3lAn6j1IbfxwGhbLh2SzibE5qo25mAo3txPNQtphvRCL1ft9GlEBsLIT8+0vjrnF69UnMNzfrMreykYflazaYlGcacb30DIhBQM9yIvJkrNfu9fzdckTyyTW1EaEm3nlES0pLSigxzxVBa0XKaCYKkyIdNmPX5yTF/b0rs9sTNhHyLt0rm7Yp9JYKiHaLtCepUZJg0274kraQ9nLZ6CMLFij05HR67M0GrCeV8/sWE/8c5XQgZFLmYfyQg/CkXHt3h7E2J63sphvzDq40TM2FBb3lyNcWkz2cXNG5k2TMz4ak53RYVy/goE5Hx4qKuGlYArlTtyZnQRKnSN0AYqdnHRxqHMvLeTpGV1JtAIv4nDEC4XLXX6qwAnJ7TE/UIHftalAz/eU7/ZU57EgOu2J8W92fkgYwYTIh4kVsI+b2KUcWQn8/r2NtioGYxXrfjdXt6XnsS/S7lwzg50bB4r2rVSNVeqbUZnlsPd+WxbnGtEVdZjKkGi0sVW4hgg6uX/kK37I19u7Eh5kMWV6q2HT7wBH4w6N6fkdiCWlexrGYDG6kLXgaj3xWB5Z0uAehW5AloRsOiZhmAS2CgQ5DPnBKkCDNBe+FXhTYFvcujN8u22yFX4Gi/+kqPqlv+R8G8UDCBxcGMSAp6ICv/XtSf61KexE8ngonI7VtWkuI2Qz+cFP8qmUNZ2ePQH2b1hbJ9oEsGfL3xyzq0zaFzBe0Jem5BM3AoI6J7Sq9Loquday4lsNsTkpAS2JkQpZB3eeKlJeOv1BsCKgZvV+xAkg5kxOGsHIhsl0QY9oTqcyl6zmcl7U+LA2m3y6F3qna0RkNJOj1v7/LEMhsCQsshwyVIotmAXy1FvQXokLg7JdRdHUICkfpnxseS9HLR/P6DcF9KHMzIT2d4rGbLAVsgLShBSEryDTNjPuDXlvTrJasiBogx4IqPp4Ta1ykziiJa0bAnxut2MeB3yR65TT3S5wAYTIgZ3x4dcALm0TpbhgUuV+33B90jNfu3vH6zHElD93WKwaRQd6fEHZ54I0pgCRfLtmwYAouan50L+12RVahbvFoyRLQY8kjNEpALecq32x1KSxqrR+pnJOFrtylXgJj5J2P+8feDtqvP6pjSyiPdMiDKtIx9aXH2kx23J0gAeLhX9bntlwJa9QOaNJmR205J+PYO5/YEYblBu7dTPtbvbEUpiATGV3vUYytXM2KZ4I+G3C/1bEl5asnmvk5x/I5Ez0q1/vB+6GrVPjHqP7+ogzjf6XGQFHiwR/1yOHFP54fesObCqhjyi4v6rZL1Dbdhl7Ei06HoYFZ+vltm1JqFNvVfx1ZgM335luB/kR0I9SROBXgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTYtMDktMDZUMjI6NDc6MTUrMDI6MDBi9g/ZAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE2LTA5LTA2VDIyOjQ3OjE1KzAyOjAwE6u3ZQAAAABJRU5ErkJggg==</icon><credential_fr>0</credential_fr><description/><environment_variables_fr>0</environment_variables_fr><agent_var/><icon_filename>azure_icon.png</icon_filename><sys_id>61fa75b000624f5c9c3b7e5b2b31bd15</sys_id><variable_prefix>az</variable_prefix><script_windows/><credentials_var_check>false</credentials_var_check><agent_fr>0</agent_fr><agent_var_check>false</agent_var_check><output_failure_only>false</output_failure_only><output_return_sline>1</output_return_sline><output_type>1</output_type><desktop_interact>false</desktop_interact><script_unix>#!/opt/universal/python3.6/bin/python3
+###############################################################################
+#
+#    Name: azure_sdk_download_file_from_container.py
+#
+#    Purpose: downloads file from an Azure container
+#             All message not related to the Azure SDK
+#             command are written to standard err.
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - Requires the Python modules via pip
+#     - pip install azure-storage-blob_file_name
+#     - pip install azure-storage-logging
+#
+#     Version History:
+#     1.0  Nils Buer    2017-11-16    using SB Code standards
+#     1.1  Nils Buer    2017-11-18    added proxy credentials
+#     2.0  Nils Buer    2018-04-10    logging and Azure Keys
+#     3.0  A Saglam     2019-08-19    changes for Axa
+#     3.1  Nils Buer    2019-09-13    removed old function
+#
+###############################################################################
+
+# Used modules
+import argparse
+import fnmatch
+import datetime
+from azure.storage.blob import BlockBlobService
+from azure.common import AzureException
+import logging
+import os
+version = "3.0"
+
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+# logging.basicConfig(level=logging.${ops_az_loglevel},
+# format=' %(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level="${ops_az_loglevel}",
+                    format=' %(asctime)s - %(levelname)s - %(message)s')
+logging.info("Executing version " + version + " with the following parameters")
+
+
+def main():
+    sb_az_con = SbAzure("${_credentialUser('${ops_az_azure_account}')}",
+                        "${_credentialPwd('${ops_az_azure_account}')}",
+                        "${ops_az_useproxy}",
+                        "${ops_az_proxy_type}",
+                        "${_credentialUser('${ops_az_proxycred}')}",
+                        "${_credentialPwd('${ops_az_proxycred}')}",
+                        "${ops_az_proxy}",
+                        "${ops_az_port}")
+    sb_az_con.download_all_files_from_azure("${ops_az_targetfile}",
+                                            "${ops_az_container}",
+                                            "${ops_az_blob}",
+                                            "${ops_az_overwrite}",
+                                            "${ops_az_operation}")
+
+
+class SbAzure:
+    """Stonebranch Azure Class for python
+
+    This class is written for file operations
+    to and from Azure cloud
+
+    Attributes:
+        _storage_client: keeps the resource identifier
+        _library_version: keeps the class library version
+    """
+    def __init__(self,
+                 account_name,
+                 account_key,
+                 use_proxy="0",
+                 proxy_type="http",
+                 proxy_user=None,
+                 proxy_passwd=None,
+                 proxy_host=None,
+                 proxy_port=None):
+        """Initiates the class instance
+
+        Initiates the class instance with with the given parameters
+
+        Args:
+            account_name: account name for azure
+            account_key: azure account key
+            use_proxy: proxy use flag, 0 or 1
+            proxy_type: proxy type, http or https
+            proxy_user: proxy user information
+            proxy_passwd: proxy password information
+            proxy_host: proxy host information
+            proxy_port: proxy port information
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        self._storage_client = None
+        self._library_version = "1.0"
+        logging.info(
+            "Azure library version " + self._library_version)
+        self.connect_azure(account_name,
+                           account_key,
+                           use_proxy,
+                           proxy_type,
+                           proxy_user,
+                           proxy_passwd,
+                           proxy_host,
+                           proxy_port)
+
+    def __del__(self):
+        self._storage_client = None
+
+    def connect_azure(self,
+                      account_name,
+                      account_key,
+                      use_proxy="0",
+                      proxy_type="http",
+                      proxy_user=None,
+                      proxy_passwd=None,
+                      proxy_host=None,
+                      proxy_port=None):
+        """Connects to cloud.
+
+        Connects to the cloud with or without proxy
+        Assigns the resource id to _storage_client
+
+        Args:
+            account_name: account name for azure
+            account_key: azure account key
+            use_proxy: proxy use flag, 0 or 1
+            proxy_type: proxy type, http or https
+            proxy_user: proxy user information
+            proxy_passwd: proxy password information
+            proxy_host: proxy host information
+            proxy_port: proxy port information
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        block_blob_service = BlockBlobService(account_name=account_name,
+                                              account_key=account_key)
+        if use_proxy in "Yes,true,True":
+            # connection via Proxy
+            logging.info('Azure Connection with Proxy: %s, Port: %s, '
+                         'Proxy_User: %s, Proxy_Pwd: %s' %
+                         (proxy_host, proxy_port, proxy_user, proxy_passwd))
+            block_blob_service.set_proxy('%s' % proxy_host, '%s' % proxy_port,
+                                         user='%s' % proxy_user,
+                                         password='%s' % proxy_passwd)
+        else:
+            # connection without Proxy
+            logging.info("Direct Azure Connection without Proxy")
+        self._storage_client = block_blob_service
+
+    @staticmethod
+    def check_file_exists_disk(file_name):
+        """Checks if a file exists on disk.
+
+        Checks if a file exists on local disk
+
+        Args:
+            file_name: file name to be checked
+
+        Returns:
+            True if the file exists
+            False if the file does not exist
+
+        Raises:
+            -
+        """
+        if os.path.isfile(file_name):
+            logging.debug('File exists:' + file_name)
+            return True
+        else:
+            logging.debug('File does not exist: ' + file_name)
+            return False
+
+    def download_file_from_azure(self,
+                                 target_file,
+                                 container,
+                                 blob_file_name,
+                                 overwrite="true",
+                                 operation="copy"):
+        """Downloads file from Azure cloud.
+
+        Downloads file from Azure cloud
+
+        Args:
+            target_file: target file with path and with unix pattern
+            container: container name
+            blob_file_name: blob_file_name file name
+            overwrite: overwrites if the value is "true"
+            operation: copy or move, with move the source file is deleted
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        if self.check_file_exists_disk(target_file):
+            if overwrite in "true,True,replace,Overwrite":
+                logging.info('File: %s exists and will be overwritten due to '
+                             'overwrite flag set' % target_file)
+                logging.info(
+                    'Start downloading file: %s ,from container: %s to : '
+                    '%s' % (blob_file_name, container, target_file))
+                self._storage_client.get_blob_to_path(container,
+                                                      blob_file_name,
+                                                      target_file)
+                logging.info('Finished downloading file: %s ,'
+                             'from container: %s to : %s' %
+                             (blob_file_name, container, target_file))
+            elif overwrite in "wt,Timestamp":
+                timestamp = str(
+                    datetime.datetime.now().strftime(
+                        ".%Y-%m-%dT%H:%M:%S%z"))
+                logging.info(
+                    'File: %s exists and '
+                    'new one will be renamed with timestamp %s' %
+                    (target_file, timestamp))
+                self._storage_client.get_blob_to_path(container,
+                                                      blob_file_name,
+                                                      target_file + timestamp)
+                logging.info('Finished downloading file: %s ,'
+                             'from container: %s to : %s' %
+                             (blob_file_name, container, target_file))
+            elif overwrite in "false,False,new":
+                logging.error('File: %s exists and will not be overwritten, '
+                              'set overwrite flag' % target_file)
+                return False
+            else:
+                logging.error('Unknown overwrite option, exiting')
+                exit(1)
+        else:
+            logging.info(
+                'Start downloading file: %s ,from container: %s to : %s' %
+                (blob_file_name, container, target_file))
+            self._storage_client.get_blob_to_path(container,
+                                                  blob_file_name, target_file)
+            logging.info(
+                'Finished downloading file: %s ,from container: %s to : %s' %
+                (blob_file_name, container, target_file))
+        return True
+
+    def download_all_files_from_azure(self,
+                                      target_file,
+                                      container,
+                                      blob_name,
+                                      overwrite="true",
+                                      operation="copy"):
+        """Downloads all files from Azure cloud.
+
+        Downloads all files matching the pattern from Azure cloud
+
+        Args:
+            target_file: target file with path and with unix pattern
+            container: container name
+            overwrite: overwrites if the value is "true"
+            blob_name: blob_name pattern
+            operation: copy or move, with move the source file is deleted
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        try:
+            blobs = self._storage_client.list_blobs(container)
+            target_dir, target_file_pattern = os.path.split(
+                os.path.abspath(target_file))
+            logging.info('Blobs:')
+            transfer_success = True
+            for blob in blobs:
+                logging.info(blob.name)
+                path, filename = os.path.split(blob.name)
+                logging.info("filename: " + blob.name)
+                logging.info("source_blob_name: " + blob_name)
+                if fnmatch.fnmatch(filename, blob_name):
+                    if self.download_file_from_azure(target_dir + "/" + filename,
+                                                  container,
+                                                  blob.name,
+                                                  overwrite) is True:
+                        if operation == "move":
+                            self.delete_blob(container, blob.name)
+                    else:
+                        transfer_success = False
+                if transfer_success is False:
+                    logging.error('There has been some errors!')
+                    exit(1)
+        except Exception as e:
+            logging.error(f'Exception list_blobs_with_prefix')
+            if hasattr(e, 'message'):
+                logging.error(f'{e.message}')
+            else:
+                logging.error(e)
+            if hasattr(e, 'code'):
+                logging.error(f'{e.code}')
+                exit(e.code)
+            else:
+                exit(1)
+
+    def delete_blob(self, bucket_name, blob_name):
+        """Deletes file from Google cloud bucket.
+
+        Deletes key from Google cloud bucket
+
+        Args:
+            bucket_name: bucket name
+            blob_name: file name
+
+        Returns:
+            -
+
+        Raises:
+            -
+        """
+        try:
+            bucket = self._storage_client.get_bucket(bucket_name)
+            blob = bucket.blob(blob_name)
+            blob.delete()
+            logging.info(
+                f'Blob {blob_name} deleted in bucket {bucket_name}.')
+        except Exception as e:
+            logging.error(f'Exception during delete of blob_file_name')
+            if hasattr(e, 'message'):
+                logging.error(f'{e.message}')
+            else:
+                logging.error(e)
+            if hasattr(e, 'code'):
+                logging.error(f'{e.code}')
+                exit(e.code)
+            else:
+                exit(1)
+
+
+# main function call
+main()</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><broadcast_cluster_var/><environment/><elevate_user>false</elevate_user><exit_code_output/><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>0bc1f8bf2fc4414bb3dcf1329e7ceff9</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>blob</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField5</field_mapping><name>blob</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>0e4704bd59ba4b3eae0cb4c6854b4a43</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value>1</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Use Proxy</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>useproxy</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-09-13 14:19:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>104adc06769742e790d3fcf1c973ad64</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-09-13 14:19:43</sys_created_on><field_value>false</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>overwrite</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>11</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>false,true, Timestamp (=if file exists a timestamp will be added to the target filename)</hint><field_mapping>choiceField4</field_mapping><name>overwrite</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>296afc87b281497492e7010ed9dfbe97</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Container</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>container</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>453eda2e79d74174b3d943163992d61e</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Target File and Path</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField4</field_mapping><name>targetfile</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5bf41cf0fd2c4ea3863c453612e262e9</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxycred</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField2</field_mapping><name>proxycred</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>7f8e39f755d34123bccaa7d9ebd6437e</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Azure Account</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>6</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>azure_account</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-09-13 08:27:30</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>a1580df2b9d34e789e48004e6853c78b</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-09-13 08:27:30</sys_created_on><field_value>copy</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>operation</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>10</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>operation copy/move</hint><field_mapping>choiceField3</field_mapping><name>operation</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>ae45ba86832c49cfa93d7458478ed7fc</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value>INFO</field_value><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>8</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField2</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>bd64235d3fb14b3fb5769af9d60ad223</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Proxy</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField1</field_mapping><name>proxy</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>ec18082deb4d442fafd0b5785c3a18e9</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>ops.admin</sys_updated_by><array_value_title/><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Port</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>port</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>104adc06769742e790d3fcf1c973ad64</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>24083d99ce15427aaf5c757884c06dca</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-09-13 14:20:01</sys_created_on><field_value_label>Timestamp</field_value_label><field_value>Timestamp</field_value><sys_updated_on>2019-09-13 14:24:24</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>104adc06769742e790d3fcf1c973ad64</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>3a6c542fb6a64824989a2d7734be7e43</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-09-13 14:19:48</sys_created_on><field_value_label>false</field_value_label><field_value>false</field_value><sys_updated_on>2019-09-13 14:19:48</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>ae45ba86832c49cfa93d7458478ed7fc</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>3d7492c64f2d4e149d7fd9ae7fc49392</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>ae45ba86832c49cfa93d7458478ed7fc</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>60a345f637614439a2f640a640dff48d</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>ERROR</field_value_label><field_value>ERROR</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>ae45ba86832c49cfa93d7458478ed7fc</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>75535509314f45529c5c1a441945d949</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>ae45ba86832c49cfa93d7458478ed7fc</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>781c725a7d4849049cd2ab27285a1041</sys_id><sequence>4</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>CRITICAL</field_value_label><field_value>CRITICAL</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>ae45ba86832c49cfa93d7458478ed7fc</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>8369320f321940458b9e21774e2aa180</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>WARNING</field_value_label><field_value>WARNING</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0e4704bd59ba4b3eae0cb4c6854b4a43</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>a508b1749a944f14a1bcc1dad35c6906</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>Yes</field_value_label><field_value>1</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>a1580df2b9d34e789e48004e6853c78b</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>dd8f1ca2346f453487e177d8a188266d</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-09-13 08:27:36</sys_created_on><field_value_label>copy</field_value_label><field_value>copy</field_value><sys_updated_on>2019-09-13 08:27:36</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>104adc06769742e790d3fcf1c973ad64</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>e995e19354d14784b960ec1fb62a4f9d</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-09-13 14:19:54</sys_created_on><field_value_label>true</field_value_label><field_value>true</field_value><sys_updated_on>2019-09-13 14:19:54</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>a1580df2b9d34e789e48004e6853c78b</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>f2ef3439899f45b5a1c26a5afb47affd</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-09-13 08:27:42</sys_created_on><field_value_label>move</field_value_label><field_value>move</field_value><sys_updated_on>2019-09-13 08:27:42</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0e4704bd59ba4b3eae0cb4c6854b4a43</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>f46887db6fe843a78ff360f239e09864</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2019-05-03 11:14:43</sys_created_on><field_value_label>No</field_value_label><field_value>0</field_value><sys_updated_on>2019-05-03 11:14:43</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>61fa75b000624f5c9c3b7e5b2b31bd15</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
