@@ -54,6 +54,7 @@ Some details about the universal tasks for Azure Blob Storage:
 The following Universal Task for Azure Blob Storage have been implemented:  
 
 Image 1:
+![](images/image1.png)
 
 # 4. Installation 
 
@@ -136,26 +137,31 @@ In a command shell run as root or sudo:
 Go to “All Tasks” and load via the Import functionality the Universal Task configuration into the Controller.
 
 Image 2:
+![](images/image2.png)
 
 Image 3:
+![](images/image3.png)
 
 # 5. Universal Task Configuration 
 
 **1. Activate: Resolvable Credentials in Universal Automation Center:**
 
 Image 4:
+![](images/image4.png)
 
 **2. Fill Out the Universal Task for each Azure Blob Storage command, which you want to execute:**
 
 In the example below the Azure Create Container Task was selected 
 
 Image 5:
+![](images/image5.png)
 
 **Fill out or select the required Credentials for Azure and optionally a Proxy Server**
 
 In the example below the azure_account credentials are shown: 
 
 Iamge 6:
+![](images/image6.png)
 
 # 6. Universal Tasks for Azure Blob Storage 
 
@@ -164,116 +170,147 @@ The following chapter describes the provided Azure Blob Storage Universal Tasks.
 # 6.1 Ceate_Container  
 
 Image 7:
+![](images/image7.png)
 
 **Task Screenshot**
 
 Image 8:
+![](images/image8.png)
 
 **Field Description:**
 
 Image 9:
+![](images/image9.png)
 
 # 6.2 Monitor_blob_in_container 
 
 Image 10:
+![](images/image10.png)
 
 **Task Screenshot**
 
 Image 11:
+![](images/image11.png)
 
 **Field Description:**
 
 Image 12:
+![](images/image12.png)
 
 # 6.3 Copy_file_to_container 
 
 Image 13:
+![](images/image13.png)
 
 **Task Screenshot**
 
 Image 14:
+![](images/image14.png)
 
 **Field Description:**
 
 Image 15:
+![](images/image15.png)
 
 # 6.4 List_blobs_in_container 
 
 Image 16:
+![](images/image16.png)
 
 **Task Screenshot**
 
 Image 17:
+![](images/image17.png)
 
 **Field Description:**
 
 Image 18:
+![](images/image18.png)
 
 # 6.5 Download_file_from_container 
 
 Image 19:
+![](images/image19.png)
 
 **Task Screenshot**
 
 Image 20:
+![](images/image20.png)
 
 **Field Description:**
 
 Image 21:
+![](images/image21.png)
 
 # 6.6 Delete_blob_from_container 
 
 Image 22:
+![](images/image22.png)
 
 **Task Screenshot**
 
 Image 23:
+![](images/image23.png)
 
 **Field Description:**
 
 Image 24:
+![](images/image24.png)
 
 # 6.7 Delete_empty_container 
 
 Image 25:
+![](images/image25.png)
 
 **Task Screenshot**
 
 Image 26:
+![](images/image26.png)
 
 **Field Description:**
 
 Image 27:
+![](images/image27.png)
 
 # 6.8 List_containers 
 
 Image 28:
+![](images/image28.png)
 
 **Task Screenshot**
 
 Image 29:
+![](images/image29.png)
 
 **Field Description:**
 
 Image 30:
+![](images/image30.png)
 
 # 6.9 Check_for_blob_in_containers 
 
 Image 31:
+![](images/image31.png)
 
 **Task Screenshot**
 
 Image 32:
-
+![](images/image32.png)
 **Field Description:**
 
 Image 33
+![](images/image33.png)
 
 # 7. Test Cases 
 
 The following basic test cases has been performed: 
 
 Image 34:
+![](images/image34.png)
+
+![](images/image35.png)
+
+![](images/image36.png)
 
 # 8. Document References 
 
